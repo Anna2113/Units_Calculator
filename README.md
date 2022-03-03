@@ -12,7 +12,7 @@
 * Temperature. 
 #### In each tab are field, which user should complete that calculate chose units. After click button Convert, user will be able to see results.
 
-<img src="Images/screen.png" alt="screen" width="400" height="300">
+<img src="Images/image.png" alt="screen" width="400" height="300">
 
 #### When user click button clear form, all fields will be cleared.
 
