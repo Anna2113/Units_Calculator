@@ -1,6 +1,6 @@
 # Units Calculator
 
-## Units calculator is project which wrote in Java language with elements JavaFX.  
+### Units calculator is project which wrote in Java language with elements JavaFX.  
 ### After cloning user can run project in for example IntelliJ IDEA Ultimate. A application is run by way of class HelloApplication.java.
 
 #### A user have to choose from six tabs: 
